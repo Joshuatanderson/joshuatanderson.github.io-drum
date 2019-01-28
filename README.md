@@ -1,2 +1,2 @@
-# joshuatanderson.github.io-drum
+# joshuatanderson.github.io
 This is a functioning drum kit
